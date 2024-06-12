@@ -182,3 +182,4 @@ mkdir images
 cd images
 touch background.jpg
 cd ../../..
+cd images
