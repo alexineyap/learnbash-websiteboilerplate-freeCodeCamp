@@ -72,3 +72,4 @@ ls --color=auto -1
 ls-1
 ls --color=auto -1
 ls --color=auto -l
+cd has
