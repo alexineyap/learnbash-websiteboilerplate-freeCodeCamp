@@ -278,3 +278,4 @@ find toms-website
 find ./toms-website
 find ./website-boilerplate
 clear
+echo goodbye terminal
