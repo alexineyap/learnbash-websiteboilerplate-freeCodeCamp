@@ -169,3 +169,5 @@ mv index.js client/src
 mv styles.css client/src
 find
 find website/client
+__vsc_prompt_cmd_original
+find --help
