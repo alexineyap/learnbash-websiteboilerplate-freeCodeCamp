@@ -237,3 +237,4 @@ rmdir images
 mv imagesrm ./ackground.jpg
 rm ./images/background.jpg
 rmdir ./images
+ls --color=auto
