@@ -234,3 +234,5 @@ mv images/footer.jpeg client/assets/images
 find
 rmdir website
 rmdir images
+mv imagesrm ./ackground.jpg
+rm ./images/background.jpg
