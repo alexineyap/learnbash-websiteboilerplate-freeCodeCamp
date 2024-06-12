@@ -86,3 +86,19 @@ more index.js
 cd has
 cd ..
 cd ..
+cd../..
+cd ..
+ls --color=auto
+cd node_modules
+ls --color=auto
+cd project
+ls --color=auto -l
+cd ..
+ls --color=auto
+cd node_modules
+ls --color=auto
+cd has
+cd ../..
+ls --color=auto
+cd node_modules
+cd ../..
